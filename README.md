@@ -1,11 +1,12 @@
-<h1 align="left" id="macropower-title">:wave: Hello, I am Thomas Johnson.</h1>
+<h1 align="left" id="macropower-title">:wave: Hello, I am Thomas Ji.</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20web%20and%20app%20developer;8%2B%20years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" />
 </p>
 <h4>
   <img align="right" width="500" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" />
-Hi, I am a passionate full stack web developer and a freelance software engineer. With 8 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.
+Hi, My English name is Thomas Johnson and Chinese name is Wang Ji. So my name is Thomas Ji. 
+I am a passionate full stack web developer and a freelance software engineer. With 8 years of experience, I have a knack for creating elegant solutions in minimal time. Developed several e-commerce web apps, customer web portals, product launch websites, and donation web apps for local charities.
 Building state-of-the-art, easy to use, user friendly web sites and applications is truly a passion of mine. I am adept at joining projects at an early stage, planning the architecture of the system, executing the plan, and scaling it for a high number of concurrent users.
 Continued technical education has allowed me to stay ahead of the curve and deliver exceptional work to each employer I've worked for - both full-time and Fixed Cost contracts.
 
